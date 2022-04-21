@@ -1,1 +1,1 @@
-#<h1>eCommerce platform with React, Redux, Express & MongoDB</h1>
+eCommerce platform with React, Redux, Express & MongoDB
