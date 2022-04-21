@@ -1,1 +1,0 @@
-eCommerce platform with React, Redux, Express & MongoDB

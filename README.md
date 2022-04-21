@@ -1,0 +1,1 @@
+<h1>e-Commerce platform with React, Redux, Express, Node and mongoDB</h1>
