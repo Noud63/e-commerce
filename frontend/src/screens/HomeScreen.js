@@ -42,7 +42,7 @@ const HomeScreen = () => {
 export default HomeScreen
 
 
-//Before store
+//Before redux store
 // const fetchProducts = async () => {
 //     const { data } = await axios.get('/api/products')
 //     setProducts(data)
